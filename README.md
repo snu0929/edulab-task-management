@@ -106,6 +106,17 @@ The application is deployed and can be accessed at:
 
 - **Backend API**: [Your deployed URL]()
 
+  
+## Dependencies
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- bcryptjs
+- jsonwebtoken
+- Contributing
+- Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
+
 To run the application locally:
 
 1. Clone the repository:
@@ -121,15 +132,5 @@ To run the application locally:
   yarn start
 ```bash
 
-## Dependencies
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- bcryptjs
-- jsonwebtoken
-- Contributing
-- Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
