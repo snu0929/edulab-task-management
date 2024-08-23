@@ -104,7 +104,7 @@ The application requires the following environment variables:
 
 The application is deployed and can be accessed at:
 
-- **Backend API**: [[Your deployed URL](https://edulab-task-management-2.onrender.com/)]()
+- **Backend API**: [[deployed URL](https://edulab-task-management-2.onrender.com/)]()
 
   
 ## Dependencies
