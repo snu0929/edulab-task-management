@@ -130,7 +130,3 @@ To run the application locally:
 4.Start the application:
   ```bash
   node src/app.js
-
-
-
-
