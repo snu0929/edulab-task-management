@@ -129,8 +129,8 @@ To run the application locally:
 
 4.Start the application:
   ```bash
-  yarn start
-```bash
+  node src/app.js
+
 
 
 
