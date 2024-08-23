@@ -111,3 +111,13 @@ To run the application locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/snu0929/edulab-task-management.git
+2. Install dependencies:
+   ```bash
+   yarn install
+3.Set up environment variables in a .env file.
+
+4.Start the application:
+  ```bash
+   yarn start
+
+
