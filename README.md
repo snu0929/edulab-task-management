@@ -118,6 +118,18 @@ To run the application locally:
 
 4.Start the application:
   ```bash
-   yarn start
+  yarn start
+```bash
 
+## Dependencies
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- bcryptjs
+- jsonwebtoken
+- Contributing
+- Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
 
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
